@@ -1,0 +1,54 @@
+{
+  "profile_photo": "https://avatars.githubusercontent.com/u/68941739?s=400&u=72528c67bc261e0a2fa536c86555aab401a2e7f4&v=4",
+  "internships": {
+    "fello (yc w22)": {
+      "role": "intern",
+      "duration": "dec 2023 - present",
+      "url": "https://fello.in/"
+    },
+    "multipl": {
+      "role": "intern",
+      "duration": "july 2023 - dec 2023",
+      "url": "https://multipl.in/"
+    },
+    "ventura securities": {
+      "role": "intern",
+      "duration": "jan 2023 - feb 2023",
+      "url": "https://ventura1.com/"
+    }
+  },
+  "projects": {
+    "Oasis Fest App": {
+      "desc": "generated 1.6 Cr inr revenue for college fest by developing the official application using flutter, which served over 5000 users. The app allowed the users to buy food from the stall, buy concert tickets, buy official merchandise, and look at event timings. published the app to App Store",
+      "url": "https://github.com/shashvat1965/Oasis-2022-App"
+    },
+    "Chip 8 Emulator": {
+      "url": "https://github.com/shashvat1965/Chip8_Emulator",
+      "desc": "made a chip-8 emulator in c++, which can run many games like space invaders and pong. the emulator was made following cowgod’s reference and used the sdl library to render graphics"
+    },
+    "Ticket Scanner": {
+      "desc": "developed a ticket scanner app, using flutter, for college administration that scanned over 3000 users under heavy load. the app implemented rsa Encryption with base 64 encoding",
+      "url": "https://github.com/shashvat1965/swd_scanner"
+    },
+    "Wake Up": {
+      "desc": "developed wake up using firebase and react native. Users form groups for alarms wherein missed alarms notify other group members through notifications. surveyed 100+ people for feature decisions.",
+      "url": "https://github.com/shashvat1965/Wake-Up"
+    },
+    "fortnote": {
+      "desc": "developed fortnote using react native, a note-taking application which implemented aes encryption for importing and exporting notes. published the app on play store",
+      "url": "https://github.com/shashvat1965/fortnote"
+    },
+    "settle sphere": {
+      "desc": "developed settle sphere, a web app written in react.js, which allows the splitting of bills paid in solana among a group. The web app also integrated a cross-chain swap service to make payments easier. won a 2000$ usd grant for the project.",
+      "url": "https://github.com/shashvat1965/Settle-Sphere"
+    },
+    "fake news detection": {
+      "desc": "Developed a website (using react.js) and smart contracts (using solidity) to make a fake news detection system on the ethereum chain. Each post had a trust score and users could upvote and downvote on a post to change its score.",
+      "url": "https://github.com/shashvat1965/fake-news-blockchain"
+    },
+    "iot smart cities": {
+      "desc": "developed an application to represent the simulated data from azure digital twins. digital twins are used to represent physical models using json schema.",
+      "url": "https://github.com/shashvat1965/iot_smart_city_app"
+    }
+  }
+}
