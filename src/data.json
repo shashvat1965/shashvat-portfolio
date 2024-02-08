@@ -45,7 +45,7 @@
     },
     "settle sphere": {
       "desc": "developed settle sphere, a mobile app written in react native, which allows the splitting of bills paid in solana among a group. won a 2000$ usd grant for the project.",
-      "url": "https://github.com/shashvat1965/Settle-Sphere"
+      "url": "https://github.com/shashvat1965/settle_sphere_mobile"
     },
     "fake news detection": {
       "desc": "Developed a website (using react.js) and smart contracts (using solidity) to make a fake news detection system on the ethereum chain. Each post had a trust score and users could upvote and downvote on a post to change its score.",
