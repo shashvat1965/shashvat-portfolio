@@ -16,7 +16,7 @@ function App() {
               <a className="link" href={"https://drive.google.com/drive/folders/1rmBbtfyDs3FkYxr7kqqY1B64nnWQP3Kp?usp=drive_link"}> resume </a>
           </div>
           <p className="bio">hi, i am shashvat singh, a software developer from india. i am doing my bachelors rn from
-              bits pilani, india<br/>i am interested in fintech and web3 domains. i am familiar with app development and bit of web dev. trying to learn low level programming as well </p>
+              bits pilani, india<br/>i am interested in startups</p>
           <div style={{
                 display: 'flex',
                 flexDirection: 'column',
